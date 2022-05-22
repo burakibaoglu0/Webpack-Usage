@@ -33,6 +33,6 @@ Start the server
 Build the project
 
 ```bash
-    npm run build
+  npm run build
 ```
 
